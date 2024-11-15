@@ -2,6 +2,11 @@
 
 This is a small example in idiomatic Excalibur to make functionality implied by the provided phaser source `./src/phaser.ts`
 
+Notes:
+* The current released version is v0.29.3, but v0.30.0 is coming VERY soon.
+* There are a few bugs and A LOT of perf improvements in the latest alpha of v0.30.0
+  - https://www.npmjs.com/package/excalibur?activeTab=versions
+
 
 ## Running Locally
 
